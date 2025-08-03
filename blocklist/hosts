@@ -45,7 +45,7 @@
 0.0.0.0 omegle.com
 0.0.0.0 chatroulette.com
 
-# ===== VIDEO & STREAMING (Netflix & Disney+ Allowed) =====
+# ===== VIDEO & STREAMING =====
 0.0.0.0 youtube.com
 0.0.0.0 www.youtube.com
 0.0.0.0 m.youtube.com
@@ -57,7 +57,7 @@
 0.0.0.0 dailymotion.com
 0.0.0.0 peacocktv.com
 
-# ===== GAMING (Minecraft Allowed) =====
+# ===== GAMING =====
 0.0.0.0 roblox.com
 0.0.0.0 www.roblox.com
 0.0.0.0 fortnite.com
